@@ -3,8 +3,7 @@
 ## What is it?
 
 Fork of a Godot 4* module that imports MMD assets. It currently has
-incomplete support for PMX models, but we intend to add at least VMD
-motions as well.
+incomplete support for PMX models.
 
 *Tested with 4.3.
 
